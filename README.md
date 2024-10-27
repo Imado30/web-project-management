@@ -1,0 +1,2 @@
+# web-project-management
+### Developed a tool for managing scientific projects, including resource and collaboration management. The tool featured a local web interface created using HTML and CSS and a SQL-based database was implemented to store both user registrations and project data. We applied Scrum and Kanban methodologies for project management, and utilized Docker for containerization and SonarQube for code quality analysis.
